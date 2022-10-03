@@ -1,0 +1,19 @@
+
+
+.imageDauphin {
+height:auto;
+width: 800px;
+
+}
+
+.imageDauphin img {
+    border-radius: 2px;
+}
+
+.presentationDauphin {
+    width: 500px;
+}
+
+.caractDauphin table {
+    border:solid black 1px;
+}
